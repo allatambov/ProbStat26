@@ -34,3 +34,10 @@
 | Совместное распределение: ковариация и корреляция | [seminar03](https://disk.yandex.ru/i/4IROubvKAltldg) [seminar03 (eng)](https://disk.yandex.ru/i/j_n1yZP_wmAFJw) | [разбор](https://disk.yandex.ru/i/gsKbtoJnbpGwPw) №2-3
 | Биномиальное распределение | [seminar04](https://disk.yandex.ru/i/oflMxK234B-6dg) [seminar04 (eng)](https://disk.yandex.ru/i/LZWmrsuC3_U5-A) | [разбор](https://disk.yandex.ru/i/jIFnfSxboYFNcg) №2
 | Непрерывные случайные величины: часть 1 | [seminar05](https://disk.yandex.ru/i/Yd5N2PFTflifoA) [seminar05 (eng)](https://disk.yandex.ru/i/X5AYdXpMZ2SSqg)
+
+## Домашние задания
+
+| Задание | Варианты | Дедлайн
+| :--- | :--- | :--- |
+Домашние задания №1 | [ссылка](https://disk.yandex.ru/d/lf6fNLf2qII_Eg) | 5 марта 2026 14:20
+

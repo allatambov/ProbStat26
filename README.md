@@ -33,7 +33,7 @@
 | Совместное распределение случайных величин | [seminar02](https://disk.yandex.ru/i/6cz_MdX_03UdIg) [seminar02 (eng)](https://disk.yandex.ru/i/dcH2Bg-FuBfIuA) | [визуализация](https://rpubs.com/AllaT/twimc-viz01) свойств E(X) и D(X)
 | Совместное распределение: ковариация и корреляция | [seminar03](https://disk.yandex.ru/i/4IROubvKAltldg) [seminar03 (eng)](https://disk.yandex.ru/i/j_n1yZP_wmAFJw) | [разбор](https://disk.yandex.ru/i/gsKbtoJnbpGwPw) №2-3
 | Биномиальное распределение | [seminar04](https://disk.yandex.ru/i/oflMxK234B-6dg) [seminar04 (eng)](https://disk.yandex.ru/i/LZWmrsuC3_U5-A) | [разбор](https://disk.yandex.ru/i/jIFnfSxboYFNcg) №2
-| Непрерывные случайные величины: часть 1 | [seminar05](https://disk.yandex.ru/i/Yd5N2PFTflifoA) [seminar05 (eng)](https://disk.yandex.ru/i/X5AYdXpMZ2SSqg)
+| Непрерывные случайные величины: часть 1 | [seminar05](https://disk.yandex.ru/i/Yd5N2PFTflifoA) [seminar05 (eng)](https://disk.yandex.ru/i/X5AYdXpMZ2SSqg) | [разбор](https://disk.yandex.ru/i/P6PRvclSeKpllA) задач
 
 ## Домашние задания
 

@@ -35,15 +35,18 @@
 | Биномиальное распределение | [seminar04](https://disk.yandex.ru/i/oflMxK234B-6dg) [seminar04 (eng)](https://disk.yandex.ru/i/LZWmrsuC3_U5-A) | [разбор](https://disk.yandex.ru/i/jIFnfSxboYFNcg) №2
 | Непрерывные случайные величины: часть 1 | [seminar05](https://disk.yandex.ru/i/Yd5N2PFTflifoA) [seminar05 (eng)](https://disk.yandex.ru/i/X5AYdXpMZ2SSqg) | [разбор](https://disk.yandex.ru/i/P6PRvclSeKpllA) задач
 | Непрерывные случайные величины: часть 2 | [seminar06](https://disk.yandex.ru/i/IpnjT_sawcD8nA) [seminar06 (eng)](https://disk.yandex.ru/i/QUhKVSuYEdl8vQ) | 
+| Нормальное распределение: часть 1 | [seminar07](https://disk.yandex.ru/i/vtdNGSErpGNZnw) [seminar07 (eng)](https://disk.yandex.ru/i/lSe5YO7E9GO-dw) | 
 
 ## Таблицы распределения
 
 * Стандартное нормальное распределение ([таблица](https://disk.yandex.ru/i/Lf-Kxm3FvwnFLQ))
+* [Памятка](https://disk.yandex.ru/i/6cILqblneF_ulA) по работе с таблицей стандартного нормального распределения
 
 
 ## Домашние задания
 
 | Задание | Варианты | Дедлайн
 | :--- | :--- | :--- |
-Домашние задания №1 | [ссылка](https://disk.yandex.ru/d/lf6fNLf2qII_Eg) | 5 марта 2026 14:20
+Домашнее задание №1 | [ссылка](https://disk.yandex.ru/d/lf6fNLf2qII_Eg) | 5 марта 2026 14:20
+Домашнее задание №2 | TBA | 17 марта 2026 14:20
 

@@ -37,7 +37,7 @@
 | Непрерывные случайные величины: часть 2 | [seminar06](https://disk.yandex.ru/i/IpnjT_sawcD8nA) [seminar06 (eng)](https://disk.yandex.ru/i/QUhKVSuYEdl8vQ) | 
 | Нормальное распределение: часть 1 | [seminar07](https://disk.yandex.ru/i/vtdNGSErpGNZnw) [seminar07 (eng)](https://disk.yandex.ru/i/lSe5YO7E9GO-dw) | 
 
-## Таблицы распределения
+## Таблицы распределения и памятки
 
 * Стандартное нормальное распределение ([таблица](https://disk.yandex.ru/i/Lf-Kxm3FvwnFLQ))
 * [Памятка](https://disk.yandex.ru/i/6cILqblneF_ulA) по работе с таблицей стандартного нормального распределения
@@ -48,5 +48,5 @@
 | Задание | Варианты | Дедлайн
 | :--- | :--- | :--- |
 Домашнее задание №1 | [ссылка](https://disk.yandex.ru/d/lf6fNLf2qII_Eg) | 5 марта 2026 14:20
-Домашнее задание №2 | TBA | 17 марта 2026 14:20
+Домашнее задание №2 | [ссылка](https://disk.yandex.ru/d/65CkLubeKIaejQ) | 17 марта 2026 14:20
 

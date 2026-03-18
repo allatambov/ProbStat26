@@ -36,12 +36,13 @@
 | Непрерывные случайные величины: часть 1 | [seminar05](https://disk.yandex.ru/i/Yd5N2PFTflifoA) [seminar05 (eng)](https://disk.yandex.ru/i/X5AYdXpMZ2SSqg) | [разбор](https://disk.yandex.ru/i/P6PRvclSeKpllA) задач
 | Непрерывные случайные величины: часть 2 | [seminar06](https://disk.yandex.ru/i/IpnjT_sawcD8nA) [seminar06 (eng)](https://disk.yandex.ru/i/QUhKVSuYEdl8vQ) | 
 | Нормальное распределение: часть 1 | [seminar07](https://disk.yandex.ru/i/vtdNGSErpGNZnw) [seminar07 (eng)](https://disk.yandex.ru/i/lSe5YO7E9GO-dw) | 
-| Нормальное распределение: часть 2 | [seminar08](https://disk.yandex.ru/i/5mZaSs0TAfOhpg) [seminar08 (eng)](https://disk.yandex.ru/i/KytMkvIowlQqwQ) | 
+| Нормальное распределение: часть 2 | [seminar08](https://disk.yandex.ru/i/5mZaSs0TAfOhpg) [seminar08 (eng)](https://disk.yandex.ru/i/KytMkvIowlQqwQ) | [разбор](https://disk.yandex.ru/i/ZwbLpC_40ogP7Q) №8
 
 ## Таблицы распределения и памятки
 
 * Стандартное нормальное распределение ([таблица](https://disk.yandex.ru/i/Lf-Kxm3FvwnFLQ))
 * [Памятка](https://disk.yandex.ru/i/6cILqblneF_ulA) по работе с таблицей стандартного нормального распределения
+* [Памятка](https://disk.yandex.ru/i/wRMZdyTfItZX2g) по нахождению квантилей нормального распределения
 
 
 ## Домашние задания

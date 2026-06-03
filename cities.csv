@@ -1,0 +1,116 @@
+City,Decibel_Level,Traffic_Density,Green_Space_Area,Air_Quality_Index,Happiness_Score,Healthcare_Index,Region
+New York,70,High,35,40,6.5,80,America
+Los Angeles,65,Medium,40,50,6.8,75,America
+Chicago,60,Medium,30,55,7.0,70,America
+London,55,High,50,60,7.2,85,Europe
+Paris,60,High,45,65,6.9,80,Europe
+Berlin,50,Low,55,35,7.5,85,Europe
+Tokyo,65,High,30,70,6.0,90,Asia
+Seoul,70,High,25,75,5.8,75,Asia
+Mumbai,80,Very High,15,80,4.5,60,Asia
+Sydney,55,Low,60,30,7.8,88,Australia & New Zealand
+Istanbul,75,High,45,85,6.8,70,Asia
+Rio de Janeiro,65,Medium,50,55,6.5,75,America
+Toronto,60,Medium,55,40,7.1,85,America
+Mexico City,70,Very High,35,90,5.2,60,America
+Cape Town,55,Low,60,45,7.6,80,Africa
+Bangkok,80,High,25,110,4.0,55,Asia
+Buenos Aires,65,High,40,60,6.1,75,America
+Amsterdam,50,Low,75,50,7.9,90,Europe
+Cairo,75,Very High,20,115,3.5,65,Africa
+Moscow,60,High,30,80,5.8,80,Europe
+Singapore,65,High,45,60,7.0,95,Asia
+Dubai,70,Medium,35,120,6.0,85,Asia
+Hong Kong,75,High,25,100,5.5,90,Asia
+Barcelona,60,Medium,65,35,7.7,85,Europe
+Lisbon,55,Low,70,40,7.8,82,Europe
+Melbourne,55,Low,60,45,7.9,90,Australia & New Zealand
+Auckland,50,Low,80,35,8.1,95,Australia & New Zealand
+Rome,60,High,40,70,6.7,80,Europe
+Athens,65,Medium,45,75,6.2,75,Europe
+Vienna,55,Low,70,30,8.2,95,Europe
+Dublin,60,Medium,55,40,7.0,85,Europe
+Copenhagen,50,Low,75,35,8.3,98,Europe
+Stockholm,55,Low,80,30,8.0,97,Europe
+Oslo,50,Low,85,25,8.5,99,Europe
+Helsinki,55,Low,90,20,8.4,95,Europe
+Prague,60,Medium,50,65,7.3,85,Europe
+Budapest,65,Medium,45,70,6.8,80,Europe
+Warsaw,60,Medium,40,75,6.7,82,Europe
+Sofia,70,High,35,80,6.0,75,Europe
+Belgrade,75,High,30,85,5.5,70,Europe
+São Paulo,70,High,40,95,5.0,75,America
+Lima,75,Very High,25,100,4.2,60,America
+Santiago,65,High,35,105,5.5,70,America
+Bogota,70,High,30,110,5.0,65,America
+Caracas,75,Very High,20,115,3.0,55,America
+Quito,65,High,25,120,4.5,60,America
+Panama City,70,Medium,30,125,5.8,65,America
+Kingston,75,High,25,130,5.5,70,America
+Havana,65,Medium,35,135,6.0,60,America
+Santo Domingo,70,High,30,140,5.5,65,America
+San Juan,75,High,25,145,6.0,70,America
+Manila,80,Very High,20,150,4.5,55,Asia
+Kuala Lumpur,75,High,25,160,5.2,60,Asia
+Taipei,70,High,30,165,5.8,70,Asia
+Shanghai,75,Very High,20,170,5.0,75,Asia
+Beijing,80,Very High,15,175,4.5,70,Asia
+New Delhi,85,Very High,10,180,3.5,55,Asia
+Tehran,80,Very High,15,185,3.0,50,Asia
+Karachi,85,Very High,10,190,3.0,45,Asia
+Dhaka,90,Very High,5,195,2.5,40,Asia
+Colombo,75,High,25,200,5.5,60,Asia
+Islamabad,80,Very High,20,205,3.5,55,Asia
+Kathmandu,75,High,25,210,4.5,50,Asia
+Yangon,80,Very High,20,215,3.5,45,Asia
+Hanoi,85,Very High,15,220,3.0,40,Asia
+Phnom Penh,80,Very High,10,225,2.5,35,Asia
+Vientiane,75,High,15,230,4.0,40,Asia
+Bangalore,85,Very High,10,235,3.5,55,Asia
+Ho Chi Minh City,90,Very High,5,240,2.8,50,Asia
+Jakarta,85,Very High,10,245,3.0,45,Asia
+Perth,60,Low,60,50,7.7,89,Australia & New Zealand
+Adelaide,55,Low,65,45,7.8,90,Australia & New Zealand
+Brisbane,60,Low,70,40,7.9,91,Australia & New Zealand
+Canberra,55,Low,75,35,8.0,92,Australia & New Zealand
+Wellington,50,Low,80,30,8.1,93,Australia & New Zealand
+Christchurch,55,Low,85,25,8.2,94,Australia & New Zealand
+Dunedin,50,Low,90,20,8.3,95,Australia & New Zealand
+Queenstown,55,Low,95,15,8.4,96,Australia & New Zealand
+Nelson,50,Low,100,10,8.5,97,Australia & New Zealand
+Hamilton,60,Medium,110,35,8.2,95,Australia & New Zealand
+Tauranga,55,Low,115,30,8.3,96,Australia & New Zealand
+Rotorua,50,Low,120,25,8.4,97,Australia & New Zealand
+Palmerston North,55,Low,125,20,8.5,98,Australia & New Zealand
+New Plymouth,60,Medium,130,35,8.1,95,Australia & New Zealand
+Lower Hutt,55,Low,135,30,8.2,96,Australia & New Zealand
+Napier,50,Low,140,25,8.3,97,Australia & New Zealand
+Gisborne,55,Low,145,20,8.4,98,Australia & New Zealand
+Kawerau,60,Medium,150,35,8.0,95,Australia & New Zealand
+Putaruru,55,Low,155,30,8.1,96,Australia & New Zealand
+Taupo,50,Low,160,25,8.2,97,Australia & New Zealand
+Tokoroa,55,Low,165,20,8.3,98,Australia & New Zealand
+Te Kuiti,60,Medium,170,35,7.9,95,Australia & New Zealand
+Otorohanga,55,Low,175,30,8.0,96,Australia & New Zealand
+Te Awamutu,50,Low,180,25,8.1,97,Australia & New Zealand
+Cambridge,55,Low,185,20,7.8,98,Australia & New Zealand
+Matamata,60,Medium,190,35,7.6,95,Australia & New Zealand
+Te Aroha,55,Low,195,30,7.7,96,Australia & New Zealand
+Paeroa,50,Low,200,25,7.8,97,Australia & New Zealand
+Waihi,55,Low,205,20,7.5,98,Australia & New Zealand
+Whangamata,60,Medium,210,35,7.3,95,Australia & New Zealand
+Tairua,55,Low,215,30,7.4,96,Australia & New Zealand
+Whitianga,50,Low,220,25,7.5,97,Australia & New Zealand
+Coromandel,55,Low,225,20,7.2,98,Australia & New Zealand
+Whangaparaoa,60,Medium,230,35,7.0,95,Australia & New Zealand
+Orewa,55,Low,235,30,7.1,96,Australia & New Zealand
+Warkworth,50,Low,240,25,6.8,97,Australia & New Zealand
+Matakana,55,Low,245,20,6.5,98,Australia & New Zealand
+Leigh,60,Medium,250,35,6.2,95,Australia & New Zealand
+Wellsford,55,Low,255,30,6.0,96,Australia & New Zealand
+Mangawhai,50,Low,260,25,5.8,97,Australia & New Zealand
+Te Hana,55,Low,265,20,5.5,98,Australia & New Zealand
+Waipu,60,Medium,270,35,5.2,95,Australia & New Zealand
+Ruakaka,55,Low,275,30,5.0,96,Australia & New Zealand
+Whangarei,50,Low,280,25,4.8,97,Australia & New Zealand
+Dargaville,55,Low,285,20,4.5,98,Australia & New Zealand

@@ -37,13 +37,26 @@
 | Непрерывные случайные величины: часть 2 | [seminar06](https://disk.yandex.ru/i/IpnjT_sawcD8nA) [seminar06 (eng)](https://disk.yandex.ru/i/QUhKVSuYEdl8vQ) | 
 | Нормальное распределение: часть 1 | [seminar07](https://disk.yandex.ru/i/vtdNGSErpGNZnw) [seminar07 (eng)](https://disk.yandex.ru/i/lSe5YO7E9GO-dw) | 
 | Нормальное распределение: часть 2 | [seminar08](https://disk.yandex.ru/i/5mZaSs0TAfOhpg) [seminar08 (eng)](https://disk.yandex.ru/i/KytMkvIowlQqwQ) | [разбор](https://disk.yandex.ru/i/ZwbLpC_40ogP7Q) №8
+| Описание выборок | [seminar09](https://disk.yandex.ru/i/i9wxfLmtr1b4Gw) [seminar09 (eng)](https://disk.yandex.ru/i/pJ65YzPCybhqDA) | 
+| Центральная предельная теорема | [seminar10](https://disk.yandex.ru/i/DvTDEXwfY2mgpw) [seminar10 (eng)](https://disk.yandex.ru/i/nWxRTLvGFMhVog) | [разбор](https://disk.yandex.ru/i/DuzwsZ9-LUepTw) №2
+| Доверительные интервалы для среднего и доли: часть 1 | [seminar11](https://disk.yandex.ru/i/9711LFBZ-xlbCg) [seminar11 (eng)](https://disk.yandex.ru/i/2z1eIVxS4DwynA) | [визуализация](https://rpsychologist.com/d3/ci/)
+| Доверительные интервалы для среднего и доли: часть 2 | [seminar12](https://disk.yandex.ru/i/M0nihR6JhFNjmg) [seminar12 (eng)](https://disk.yandex.ru/i/dVzYL53WUFBDsQ) | 
+| Проверка гипотезы о доле и среднем: часть 1 | [seminar13](https://disk.yandex.ru/i/XN5aQ-2Hsx_M_Q) [seminar13 (eng)](https://disk.yandex.ru/i/76vbBWWQTDedbQ) | 
+| Проверка гипотезы о доле и среднем: часть 2 | [seminar14](https://disk.yandex.ru/i/NkfPG2ISG2i5kQ) [seminar14 (eng)](https://disk.yandex.ru/i/dPX5t_BBb02cTQ) | 
+| Меры связи: часть 1 | [seminar15](https://disk.yandex.ru/i/Y1r7RnumGuNbAw) [seminar15 (eng)]() | 
+| Меры связи: часть 2 | [seminar16](https://disk.yandex.ru/i/Ze46zN6GkF5Eng) [seminar16 (eng)](https://disk.yandex.ru/i/nxYTpBbyDaa-HA) | 
+| Меры связи: повторение |  | [code03.py](https://github.com/allatambov/ProbStat26/blob/main/code03.py)
 
 ## Таблицы распределения и памятки
 
 * Стандартное нормальное распределение ([таблица](https://disk.yandex.ru/i/Lf-Kxm3FvwnFLQ))
 * [Памятка](https://disk.yandex.ru/i/6cILqblneF_ulA) по работе с таблицей стандартного нормального распределения
 * [Памятка](https://disk.yandex.ru/i/wRMZdyTfItZX2g) по нахождению квантилей нормального распределения
-
+* [Памятка](https://disk.yandex.ru/d/DKAkb3WQEszEXw) по описательным статистикам
+* [Памятка](https://disk.yandex.ru/i/mHZChQFme2a6Vg) по доверительным интервалам
+* [Памятка](https://disk.yandex.ru/i/B6__kPzpZL5z3A) по проверке гипотез с помощью критической области и p-value
+* [Памятка](https://disk.yandex.ru/i/lIlniU7kUSRCBQ) по коэффициентам корреляции
+* [Разбор](https://disk.yandex.ru/i/nuPDILPCfdo2zA) задачи на таблицу сопряженности и критерий хи-квадрат
 
 ## Домашние задания
 
@@ -51,4 +64,7 @@
 | :--- | :--- | :--- |
 Домашнее задание №1 | [ссылка](https://disk.yandex.ru/d/lf6fNLf2qII_Eg) | 5 марта 2026 14:20
 Домашнее задание №2 | [ссылка](https://disk.yandex.ru/d/65CkLubeKIaejQ) | 17 марта 2026 14:20
+Домашнее задание №3 | [ссылка](https://disk.yandex.ru/d/BEPTswgq6RUiLA) | 22 апреля 2026 14:40
+Домашнее задание №4 | [ссылка](https://disk.yandex.ru/d/yepalHpLRWxnjw) | 1 июня 2026 16:00
+Домашнее задание №5 | [ссылка](https://disk.yandex.ru/d/MRjzaWW-CArPFg) | 11 июня 2026 16:00
 
